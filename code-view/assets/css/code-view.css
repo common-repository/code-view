@@ -1,0 +1,20 @@
+pre {
+  position: relative;
+  padding: 0 1.6em !important;
+  margin: 0 !important;
+  background: #fff !important;
+}
+pre .hljs {
+  padding: 0 0.5em;
+}
+pre .code-curly {
+  position: absolute;
+  top: 0;
+  left: 4px;
+  width: 30px;
+  height: 100%;
+  background: url("/code-view/assets/images/curly.svg");
+  background-repeat: no-repeat;
+  background-size: 15px 50px;
+}
+
